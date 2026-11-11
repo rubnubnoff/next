@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "js/ts.tsdk.path": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
